@@ -1,4 +1,4 @@
 # test
 test
 
-dolphin git plugin testing...
+please, work now!
